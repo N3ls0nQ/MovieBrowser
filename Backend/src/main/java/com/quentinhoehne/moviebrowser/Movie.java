@@ -11,5 +11,6 @@ public class Movie {
         this.year = year;
         this.image = image;
         this.id = id;
+        
     }
 }
